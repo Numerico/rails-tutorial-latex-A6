@@ -1,4 +1,4 @@
-rails-tutorial-latex
-====================
+rails-tutorial-latex-A6
+=======================
 
-latex book compiling rails tutorial's chapters in a quarter of Chilean Letter format - yeah, haffi move to A4
+Ruby on Rails documentation at https://guides.rubyonrails.org compiled in LaTeX for print. 
